@@ -1,5 +1,5 @@
 LN = Language Network
-AISI = Access to Internally Stored Information
+MAIN = Maintaining Internal Attention
 RE_EV = Re-Evaluation
 INIT = Initiation
 MDN = Multiple Demand Network
