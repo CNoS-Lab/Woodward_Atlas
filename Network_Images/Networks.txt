@@ -1,12 +1,12 @@
-LN = Language Network
+LAN = Language
 MAIN = Maintaining Internal Attention
 RE_EV = Re-Evaluation
 INIT = Initiation
-MDN = Multiple Demand Network
+MD = Multiple Demand
 FoVF = Focus on Visual Features
 AUD = Auditory Perception
 AAR = Auditory Attention for Response
 1RESP = One-Handed Response
 2RESP = Two-Handed Response
-TDMN = Traditional Default Mode Network
-NDMN = Novel Default Mode Network
+DMA = Default Mode A
+DMB = Default Mode B
